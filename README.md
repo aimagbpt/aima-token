@@ -32,40 +32,40 @@ Key use cases include:
 
 ---
 
+# GBPT Stablecoin (GBPT)
+
+**GBPT** is a fixed-supply BEP-20 stablecoin pegged to the British Pound (£), deployed on Binance Smart Chain (BSC).  
+It is part of the AIMA token ecosystem, designed to serve real-world use cases such as cross-border payments, freelance settlements, and business transactions.
+
+---
+
+## 🎯 Purpose
+
+Many so-called stablecoins are speculative or lack transparency. **GBPT focuses on real economic value and usability** by:
+
+- 💷 **Providing GBP-denominated digital liquidity** for global users
+- 🌍 **Supporting cross-border commerce** for freelancers and remote teams
+- 🏢 **Assisting businesses with stable pricing and invoicing**
+- 🧾 **Reducing currency conversion fees** in international contracts
+- 🤖 **Enabling AI-powered job matching + settlement flows** (in future)
+
+---
+
+## 🔢 Token Information
+
+| Property         | Value                            |
+|------------------|----------------------------------|
+| Token Name       | AIMA GBPT Stablecoin             |
+| Symbol           | GBPT                             |
+| Standard         | BEP-20 (ERC-20 Compatible)       |
+| Decimals         | 18                               |
+| Total Supply     | 210,000,000,000 GBPT             |
+| Network          | Binance Smart Chain (BSC)        |
+| Mintable/Burnable| ❌ No (Fixed Supply)             |
+| Deployer         | Creator address receives full supply |
+| Smart Contract   | [0xCdC409237577564Cc3B4b2ECA2c1744a7293b656](https://bscscan.com/address/0xcdc409237577564cc3b4b2eca2c1744a7293b656)
+
+---
+
 ## 📂 Project Structure
-
-# AIMA Token（AIMA）
-
-**AIMA（AI Monetary Assets）** 是一个基于 BNB Chain（原 BSC）的 BEP-20 标准代币，发行总量为 21 亿枚。该代币旨在为实体经济、就业协作、跨境支付和智能资产交易提供稳定、透明、高效的数字基础。
-
----
-
-## 🎯 项目定位
-
-在通货膨胀和就业不稳成为全球性问题的背景下，AIMA 希望为以下场景提供真实落地的解决方案：
-
-- 🏭 **服务实体经济**：推动中小企业与数字货币结合，降低交易和结算成本  
-- 👩‍💻 **促进灵活就业**：为自由职业者、远程打工人、跨国服务人员提供安全支付通道  
-- 🌐 **跨境稳定结算**：配合稳定币（如 GBPT 等）实现 AI 接单+跨境结算+即时转账  
-- 🤖 **融合智能协作**：结合 AI 技术，推动劳动者与系统协同，提高分工效率与收益透明度  
-
----
-
-## 🔢 代币基本信息
-
-| 项目       | 详情                        |
-|------------|-----------------------------|
-| 名称       | AIMA Token                  |
-| 符号       | AIMA                        |
-| 标准       | BEP-20（兼容 ERC-20）       |
-| 小数位     | 18                          |
-| 总发行量   | 2,100,000,000 AIMA          |
-| 所属网络   | Binance Smart Chain (BSC)   |
-| 铸造/销毁权限 | ❌ 无（总量固定）         |
-| 合约地址   | [0x97C9a582Fc1F07dB1Ef47a0Be6958f55013BFc45](https://bscscan.com/address/0x97C9a582Fc1F07dB1Ef47a0Be6958f55013BFc45))
-
-
----
-
-## 📦 项目结构
 
