@@ -28,7 +28,7 @@ Key use cases include:
 | Total Supply   | 2,100,000,000 AIMA             |
 | Network        | Binance Smart Chain (BSC)      |
 | Mint/Burn      | ❌ No minting or burning       |
-| Contract       | [0xYourContractAddressHere](https://bscscan.com/address/0xYourContractAddressHere)
+| Contract       | [0x97C9a582Fc1F07dB1Ef47a0Be6958f55013BFc45](https://bscscan.com/address/0x97C9a582Fc1F07dB1Ef47a0Be6958f55013BFc45))
 
 ---
 
@@ -62,7 +62,8 @@ Key use cases include:
 | 总发行量   | 2,100,000,000 AIMA          |
 | 所属网络   | Binance Smart Chain (BSC)   |
 | 铸造/销毁权限 | ❌ 无（总量固定）         |
-| 合约地址   | [0xYourContractAddressHere](https://bscscan.com/address/0xYourContractAddressHere) |
+| 合约地址   | [0x97C9a582Fc1F07dB1Ef47a0Be6958f55013BFc45](https://bscscan.com/address/0x97C9a582Fc1F07dB1Ef47a0Be6958f55013BFc45))
+
 
 ---
 
